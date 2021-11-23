@@ -20,3 +20,11 @@ Este trabalho teve como finalidade gerar um relatório de acompanhamento de proj
 ### Abstract
 
 The purpose of this work was to generate a project follow up report for Campaigns of Maintenance on platforms, in order to improve the assessment of the real situation of the projects, as well to enable more effective decision-making. For this purpose, some indicators based on adaptive or agile frameworks were raised, since the environment in which these campaigns are inserted involves many changes, and a predictive approach would not be recommended for the generation of projections. Based on these assumptions, a standardization of the database was proposed and, from the standardized data loaded in EXCEL, a report was created in Power BI, capable of reflecting the current status of service execution and projections for the future. Through this report, it was possible to verify an increase in the commitment of the team, which achieved greater visibility on the actual situation of execution, in addition to an increase in the quality of decisions taken to reach the established deadline.
+
+---
+
+Matrícula: 123.456.789
+
+Pontifícia Universidade Católica do Rio de Janeiro
+
+Curso de Pós Graduação *Business Intelligence Master*
